@@ -1,10 +1,10 @@
-import { Button } from '@stelli/components-library-experiment.atoms.button'
+import { PrimaryButton as Button } from '@stelli/components-library-experiment.atoms.primary-button'
 
 function App() {
   return (
     
       <header>
-        <Button>
+        <Button iconName='minus'>
           Click me
         </Button>
       </header>

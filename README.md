@@ -13,3 +13,9 @@ With this strategy the bundle produced on this app resulted in a file containing
 This version increased the bundle size to 12.32 kilo bytes, as it has inside the dependencies to other components.
 
 <img src="./docs/images/image-2.png">
+
+## Using both components with and without direct dependencies to others
+
+This version increased the bundle size to 12.67 kilo bytes, due to the new button component but nothing increased from the icon
+
+<img src="./docs/images/image-3.png">

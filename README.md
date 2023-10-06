@@ -19,3 +19,9 @@ This version increased the bundle size to 12.32 kilo bytes, as it has inside the
 This version increased the bundle size to 12.67 kilo bytes, due to the new button component but nothing increased from the icon
 
 <img src="./docs/images/image-3.png">
+
+## Using peer dependencies
+
+This version has exaclty the same bundle size than the previous one
+
+<img src="./docs/images/image-4.png">

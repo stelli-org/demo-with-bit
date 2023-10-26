@@ -1657,88 +1657,112 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@stelli/components-library-experiment.atoms.button@^0.0.2":
-  version "0.0.2"
-  resolved "https://node.bit.cloud/@stelli/components-library-experiment.atoms.button/-/@stelli-components-library-experiment.atoms.button-0.0.2.tgz#abc4fe4ddc4ace6f76a7759a2607cff576ee66f7"
-  integrity sha1-q8T+TdxKzm92p3WaJgfP9XbuZvc=
+"@stelli/components-library-experiment.atoms.button@^0.0.5":
+  version "0.0.5"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.atoms.button/-/@stelli-components-library-experiment.atoms.button-0.0.5.tgz#e6ed6be3604f93dde4a42be367cef5669cc3977a"
+  integrity sha1-5u1r42BPk93kpCvjZ871ZpzDl3o=
   dependencies:
     core-js "^3.0.0"
 
-"@stelli/components-library-experiment.atoms.primary-button@^0.0.10":
-  version "0.0.10"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.atoms.primary-button/-/@stelli-components-library-experiment.atoms.primary-button-0.0.10.tgz#15c679cada2a22f9121f0e1b262e0a8f4a72838f"
-  integrity sha1-FcZ5ytoqIvkSHw4bJi4Kj0pyg48=
+"@stelli/components-library-experiment.atoms.primary-button@^0.0.12":
+  version "0.0.12"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.atoms.primary-button/-/@stelli-components-library-experiment.atoms.primary-button-0.0.12.tgz#748800896f1d177e6fe2a87cb978969a4b1c570a"
+  integrity sha1-dIgAiW8dF35v4qh8uXiWmkscVwo=
   dependencies:
     core-js "^3.0.0"
 
-"@stelli/components-library-experiment.icons.alert@^0.0.2":
-  version "0.0.2"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.alert/-/@stelli-components-library-experiment.icons.alert-0.0.2.tgz#7962d8d345e0511fd82882151756066ae41c1130"
-  integrity sha1-eWLY00XgUR/YKIIVF1YGauQcETA=
+"@stelli/components-library-experiment.atoms.search@^0.0.6":
+  version "0.0.6"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.atoms.search/-/@stelli-components-library-experiment.atoms.search-0.0.6.tgz#82917e1d68afa91cb68dab081577151ff88c4a07"
+  integrity sha1-gpF+HWivqRy2jasIFXcVH/iMSgc=
   dependencies:
     core-js "^3.0.0"
 
-"@stelli/components-library-experiment.icons.bell@^0.0.2":
-  version "0.0.2"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.bell/-/@stelli-components-library-experiment.icons.bell-0.0.2.tgz#fdd2db9f93579c7f4e198ae315f0603e988dbac0"
-  integrity sha1-/dLbn5NXnH9OGYrjFfBgPpiNusA=
-  dependencies:
-    core-js "^3.0.0"
-
-"@stelli/components-library-experiment.icons.book@^0.0.2":
-  version "0.0.2"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.book/-/@stelli-components-library-experiment.icons.book-0.0.2.tgz#652f5816b1338f3a8378dc4f4afd4d982c0c4130"
-  integrity sha1-ZS9YFrEzjzqDeNxPSv1NmCwMQTA=
-  dependencies:
-    core-js "^3.0.0"
-
-"@stelli/components-library-experiment.icons.calendar@^0.0.2":
-  version "0.0.2"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.calendar/-/@stelli-components-library-experiment.icons.calendar-0.0.2.tgz#3ef6e6a88a98e2b40927e73889483df79857bab0"
-  integrity sha1-PvbmqIqY4rQJJ+c4iUg995hXurA=
-  dependencies:
-    core-js "^3.0.0"
-
-"@stelli/components-library-experiment.icons.camera@^0.0.3":
+"@stelli/components-library-experiment.icons.alert@^0.0.3":
   version "0.0.3"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.camera/-/@stelli-components-library-experiment.icons.camera-0.0.3.tgz#29aa696ca5434d1e9c5dec12c91cba3f0936a352"
-  integrity sha1-KappbKVDTR6cXewSyRy6Pwk2o1I=
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.alert/-/@stelli-components-library-experiment.icons.alert-0.0.3.tgz#f6257071f4468555f8eba60331096409abed318d"
+  integrity sha1-9iVwcfRGhVX466YDMQlkCavtMY0=
+  dependencies:
+    "@stelli/components-library-experiment.icons.base-icon" "0.0.1"
+    core-js "^3.0.0"
+
+"@stelli/components-library-experiment.icons.base-icon@0.0.1":
+  version "0.0.1"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.base-icon/-/@stelli-components-library-experiment.icons.base-icon-0.0.1.tgz#581d43253b54e9c18ebd73d18ed62f3b3d99967f"
+  integrity sha1-WB1DJTtU6cGOvXPRjtYvOz2Zln8=
   dependencies:
     core-js "^3.0.0"
 
-"@stelli/components-library-experiment.icons.card@^0.0.2":
-  version "0.0.2"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.card/-/@stelli-components-library-experiment.icons.card-0.0.2.tgz#3d3e1f5d3a85d52c5ecb961ba23d1698b34fbb8f"
-  integrity sha1-PT4fXTqF1Sxey5Yboj0WmLNPu48=
+"@stelli/components-library-experiment.icons.bell@^0.0.3":
+  version "0.0.3"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.bell/-/@stelli-components-library-experiment.icons.bell-0.0.3.tgz#7cc182f79c8d4506a13edd5cdc9c3c2021e66b46"
+  integrity sha1-fMGC95yNRQahPt1c3Jw8ICHma0Y=
   dependencies:
+    "@stelli/components-library-experiment.icons.base-icon" "0.0.1"
     core-js "^3.0.0"
 
-"@stelli/components-library-experiment.icons.cart@^0.0.2":
-  version "0.0.2"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.cart/-/@stelli-components-library-experiment.icons.cart-0.0.2.tgz#025a424eca54e977e44ddfe7e3b480f2d6437142"
-  integrity sha1-AlpCTspU6XfkTd/n47SA8tZDcUI=
+"@stelli/components-library-experiment.icons.book@^0.0.3":
+  version "0.0.3"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.book/-/@stelli-components-library-experiment.icons.book-0.0.3.tgz#166af0b9b417dba4f7a60e514745ac5fb0d5cf43"
+  integrity sha1-FmrwubQX26T3pg5RR0WsX7DVz0M=
   dependencies:
+    "@stelli/components-library-experiment.icons.base-icon" "0.0.1"
     core-js "^3.0.0"
 
-"@stelli/components-library-experiment.icons.clock@^0.0.2":
-  version "0.0.2"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.clock/-/@stelli-components-library-experiment.icons.clock-0.0.2.tgz#d0ce885a383e83897d67717f29faf54c4c1ecc84"
-  integrity sha1-0M6IWjg+g4l9Z3F/Kfr1TEwezIQ=
+"@stelli/components-library-experiment.icons.calendar@^0.0.3":
+  version "0.0.3"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.calendar/-/@stelli-components-library-experiment.icons.calendar-0.0.3.tgz#af1affc21fe3e85f623be40a415abfa03428c972"
+  integrity sha1-rxr/wh/j6F9iO+QKQVq/oDQoyXI=
   dependencies:
+    "@stelli/components-library-experiment.icons.base-icon" "0.0.1"
     core-js "^3.0.0"
 
-"@stelli/components-library-experiment.icons.help@^0.0.2":
-  version "0.0.2"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.help/-/@stelli-components-library-experiment.icons.help-0.0.2.tgz#bdac8b3fd578861eb1afbf96a04818c54a35b446"
-  integrity sha1-vayLP9V4hh6xr7+WoEgYxUo1tEY=
+"@stelli/components-library-experiment.icons.camera@^0.0.4":
+  version "0.0.4"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.camera/-/@stelli-components-library-experiment.icons.camera-0.0.4.tgz#9bbeb1ca4db028d937406fd9e0a9fd58e713e29d"
+  integrity sha1-m76xyk2wKNk3QG/Z4Kn9WOcT4p0=
   dependencies:
+    "@stelli/components-library-experiment.icons.base-icon" "0.0.1"
     core-js "^3.0.0"
 
-"@stelli/components-library-experiment.icons.minus@^0.0.2":
-  version "0.0.2"
-  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.minus/-/@stelli-components-library-experiment.icons.minus-0.0.2.tgz#8602ae0ccb9c9fbb89d6edb16bf756c358486058"
-  integrity sha1-hgKuDMucn7uJ1u2xa/dWw1hIYFg=
+"@stelli/components-library-experiment.icons.card@^0.0.3":
+  version "0.0.3"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.card/-/@stelli-components-library-experiment.icons.card-0.0.3.tgz#60523cb3a1688e400c82a205c44023c8ad259806"
+  integrity sha1-YFI8s6FojkAMgqIFxEAjyK0lmAY=
   dependencies:
+    "@stelli/components-library-experiment.icons.base-icon" "0.0.1"
+    core-js "^3.0.0"
+
+"@stelli/components-library-experiment.icons.cart@^0.0.3":
+  version "0.0.3"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.cart/-/@stelli-components-library-experiment.icons.cart-0.0.3.tgz#b7c6d8f0cd4f7f420470b16ff1c9d1c67f87800f"
+  integrity sha1-t8bY8M1Pf0IEcLFv8cnRxn+HgA8=
+  dependencies:
+    "@stelli/components-library-experiment.icons.base-icon" "0.0.1"
+    core-js "^3.0.0"
+
+"@stelli/components-library-experiment.icons.clock@^0.0.3":
+  version "0.0.3"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.clock/-/@stelli-components-library-experiment.icons.clock-0.0.3.tgz#b968ddc44e730c4fe788fb8ec477ae3ead2fb214"
+  integrity sha1-uWjdxE5zDE/niPuOxHeuPq0vshQ=
+  dependencies:
+    "@stelli/components-library-experiment.icons.base-icon" "0.0.1"
+    core-js "^3.0.0"
+
+"@stelli/components-library-experiment.icons.help@^0.0.3":
+  version "0.0.3"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.help/-/@stelli-components-library-experiment.icons.help-0.0.3.tgz#efaf1651c61be68ab5b54f5f7bd23cfb433b15ee"
+  integrity sha1-768WUcYb5oq1tU9fe9I8+0M7Fe4=
+  dependencies:
+    "@stelli/components-library-experiment.icons.base-icon" "0.0.1"
+    core-js "^3.0.0"
+
+"@stelli/components-library-experiment.icons.minus@^0.0.3":
+  version "0.0.3"
+  resolved "https://node.bit.dev/@stelli/components-library-experiment.icons.minus/-/@stelli-components-library-experiment.icons.minus-0.0.3.tgz#d9e27ffdca04bb117bcca08926a86269bdb879d5"
+  integrity sha1-2eJ//coEuxF7zKCJJqhiab24edU=
+  dependencies:
+    "@stelli/components-library-experiment.icons.base-icon" "0.0.1"
     core-js "^3.0.0"
 
 "@surma/rollup-plugin-off-main-thread@^2.2.3":

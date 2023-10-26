@@ -25,3 +25,9 @@ This version increased the bundle size to 12.67 kilo bytes, due to the new butto
 This version has exaclty the same bundle size than the previous one
 
 <img src="./docs/images/image-4.png">
+
+## Final version mixin passing Icon as prop and creating IconComponents directly
+
+This version has decreased the bundle size, all the Icons components decreased and specially the primary-button
+
+<img src="./docs/images/image-5.png">
